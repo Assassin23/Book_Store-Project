@@ -158,3 +158,5 @@ CRISPY_TEMPLATE_PACK = "bootstrap5"
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
 
 AUTH_USER_MODEL = "accounts.CustomUser"
+
+DEFAULT_FROM_EMAIL = "admin@djangobookstore.com"
